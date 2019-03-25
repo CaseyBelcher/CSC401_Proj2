@@ -12,6 +12,7 @@ public class Server {
         try {
             final DatagramSocket socket = new DatagramSocket( 7735 );
             final InetAddress address = InetAddress.getByName( "localhost" );
+            System.out.println(address);
             final byte[] b = new byte[1000];
             final OutputStream os = new FileOutputStream( "fileToPrint.txt" );
 
@@ -20,6 +21,8 @@ public class Server {
             while ( running ) {
                 final DatagramPacket packet = new DatagramPacket( b, b.length );
                 socket.receive( packet );
+                int sequence = fromByteArray( Arrays.copyOfRange(packet.getData(), 0, 4) );
+                System.out.println(sequence);
                 os.write( Arrays.copyOfRange( packet.getData(), 8, packet.getLength() ) );
                 if( b.length == 0) {
                     running = false;
@@ -32,6 +35,10 @@ public class Server {
         catch ( final IOException ioe ) {
             System.out.println( "Error " + ioe.getMessage() );
         }
+    }
+    
+    static int fromByteArray(byte[] bytes) {
+     return bytes[0] << 24 | (bytes[1] & 0xFF) << 16 | (bytes[2] & 0xFF) << 8 | (bytes[3] & 0xFF);
     }
 
 }
