@@ -27,7 +27,8 @@ public class Server {
             
             
             final DatagramSocket socket = new DatagramSocket( portNumber );
-            final InetAddress address = InetAddress.getByName( "localhost" );
+//            final InetAddress address = InetAddress.getByName( "localhost" );
+            final InetAddress address = InetAddress.getLocalHost(); 
             System.out.println(address);
             final byte[] b = new byte[1000];
             final OutputStream os = new FileOutputStream( fileName );
@@ -42,6 +43,16 @@ public class Server {
                 int clientPort = packet.getPort(); 
                 byte[] data = packet.getData();  
                 int sequence = fromByteArray( Arrays.copyOfRange(data, 0, 4) );
+                
+                // initial volley to determine RTT and timeout length  
+                if(sequence == -1) { 
+                  byte[] rttData = new byte[4]; 
+                  rttData = intToByteArray(-1); 
+                  
+                  DatagramPacket rttPacket = new DatagramPacket( rttData, 4, clientAddress, clientPort );
+                  socket.send( rttPacket );
+                  
+                }
                 
                 // simulate lost packet 
                 double testForLoss = r.nextDouble();
@@ -68,17 +79,19 @@ public class Server {
                   sum += piece; 
                 }
                 sum = (char) ~sum; 
+//                System.out.println("our sum: " + sum);
                 
                 // compare our checksum to client's header
                 // if incorrect, do nothing and restart while loop 
-                byte[] ourSum = charToByteArray(sum); 
+                byte[] ourSum = new byte[2]; 
+                ourSum = charToByteArray(sum); 
                 
 //                if(clientSum[0] != ourSum[0] || clientSum[1] != ourSum[1]) { 
 //                  
 //                  System.out.println("clientSum[0]: " + clientSum[0]);
 //                  System.out.println("ourSum[0]: " + ourSum[0]);
 //                  System.out.println("clientSum[1]: " + clientSum[1]);
-//                  System.out.println("ourSum[0]: " + ourSum[1]);
+//                  System.out.println("ourSum[1]: " + ourSum[1]);
 //                  
 //                  continue; 
 //                }
