@@ -7,8 +7,11 @@ import java.io.InputStream;
 import java.net.DatagramPacket;
 import java.net.DatagramSocket;
 import java.net.InetAddress;
+import java.net.SocketTimeoutException;
+import java.util.ArrayList;
 import java.util.Arrays;
-
+import java.util.HashSet;
+import java.util.Hashtable;
 import java.nio.CharBuffer;
 import java.nio.charset.Charset;
 import java.nio.ByteBuffer;
@@ -84,26 +87,42 @@ public class Client {
                   InetAddress address = InetAddress.getByName( servers[i] );
                   DatagramPacket packet = new DatagramPacket( b, readBytes + 8, address, 7735 );
                   socket.send( packet );
-
                 }
-//                DatagramPacket packet = new DatagramPacket( b, readBytes + 8, address, 7735 );
-//                socket.send( packet );
+                socket.setSoTimeout(250);
                 System.out.println(readBytes + 8);
                 
                 
                 // wait for all ACKs 
                 int acksRecieved = 0; 
-                byte[] ackBuffer = new byte[8]; 
-                while(acksRecieved < numServers) { 
-                  DatagramPacket packet = new DatagramPacket(ackBuffer, ackBuffer.length); 
-                  socket.receive(packet);
+                byte[] ackBuffer = new byte[8];
+                HashSet<InetAddress> addressesRemaining = new HashSet<InetAddress>(); 
+                for(int i = 0; i < servers.length; i++) { 
+                  addressesRemaining.add(InetAddress.getByName(servers[i])); 
+                }
+                
+                a: while(acksRecieved < numServers) { 
+                   try {  
+                    DatagramPacket packet = new DatagramPacket(ackBuffer, ackBuffer.length); 
+                    socket.receive(packet);
+                    
+                    int ackSequence = fromByteArray( Arrays.copyOfRange(packet.getData(), 0, 4) );
+                    System.out.println("ACKed sequence: " + ackSequence);
+                    
+                    if(ackSequence == seqNum) { 
+                      acksRecieved++; 
+                      addressesRemaining.remove(packet.getAddress()); 
+                    }
+                   
+                   }
+                   catch(SocketTimeoutException e) { 
+                     System.out.println("Timeout, sequence number = " + seqNum);
+                     for(int i = 0; i < addressesRemaining.size(); i++) { 
+                       DatagramPacket packet = new DatagramPacket( b, readBytes + 8, addressesRemaining.iterator().next(), 7735 );
+                       socket.send( packet );
+                     }
+                     continue a;
+                   }
                   
-                  int ackSequence = fromByteArray( Arrays.copyOfRange(packet.getData(), 0, 4) );
-                  System.out.println("ACKed sequence: " + ackSequence);
-                  
-                  if(ackSequence == seqNum) { 
-                    acksRecieved++; 
-                  }
                 }
                 
                 seqNum++; 
