@@ -34,7 +34,7 @@ public class Client {
         
         try {
             final DatagramSocket socket = new DatagramSocket( );
-            final InetAddress address = InetAddress.getByName( servers[0] );
+//            final InetAddress address = InetAddress.getByName( servers[0] );
             byte[] b = new byte[MSS];            
             String fileName2 = new File( "" ).getAbsolutePath();
             fileName2 = fileName2.concat( "/src/processes/" + fileName );            
@@ -80,8 +80,14 @@ public class Client {
                 
                 
                 
-                DatagramPacket packet = new DatagramPacket( b, readBytes + 8, address, 7735 );
-                socket.send( packet );
+                for(int i = 0; i < servers.length; i++) { 
+                  InetAddress address = InetAddress.getByName( servers[i] );
+                  DatagramPacket packet = new DatagramPacket( b, readBytes + 8, address, 7735 );
+                  socket.send( packet );
+
+                }
+//                DatagramPacket packet = new DatagramPacket( b, readBytes + 8, address, 7735 );
+//                socket.send( packet );
                 System.out.println(readBytes + 8);
                 
                 
@@ -89,7 +95,7 @@ public class Client {
                 int acksRecieved = 0; 
                 byte[] ackBuffer = new byte[8]; 
                 while(acksRecieved < numServers) { 
-                  packet = new DatagramPacket(ackBuffer, ackBuffer.length); 
+                  DatagramPacket packet = new DatagramPacket(ackBuffer, ackBuffer.length); 
                   socket.receive(packet);
                   
                   int ackSequence = fromByteArray( Arrays.copyOfRange(packet.getData(), 0, 4) );
