@@ -25,6 +25,8 @@ public class Client {
 
     public static void main ( String[] args ) {
         
+        long startProgramTime = System.currentTimeMillis(); 
+      
         //initialize command line args
         int numServers = Integer.parseInt( args[0] );
         String[] servers = new String[numServers];
@@ -161,6 +163,13 @@ public class Client {
         catch ( final IOException ioe ) {
             System.out.println( "Error " + ioe.getMessage() );
         }
+        
+        
+        
+        long endProgramTime = System.currentTimeMillis(); 
+        long runTime = endProgramTime - startProgramTime; 
+        
+        System.out.println("Runtime in ms: " + runTime);
     }
     
     public static final byte[] intToByteArray(int value) {
