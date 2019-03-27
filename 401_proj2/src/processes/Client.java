@@ -48,27 +48,27 @@ public class Client {
             int seqNum = 0;
             
             // initial volley to determine RTT and timeout 
-            byte[] volleyBytes = new byte[4]; 
-            byte[] tempSeqBytes = intToByteArray(-1);
-            volleyBytes[0] = tempSeqBytes[0];
-            volleyBytes[1] = tempSeqBytes[1];
-            volleyBytes[2] = tempSeqBytes[2];
-            volleyBytes[3] = tempSeqBytes[3];
-            
-            InetAddress tempAddress = InetAddress.getByName( servers[0] );
-            DatagramPacket tempPacket = new DatagramPacket( volleyBytes, 4, tempAddress, 7735 );
-           
-            
-            long startTime = System.currentTimeMillis();  
-            socket.send( tempPacket );
-            
-            byte[] volleyReturn = new byte[4]; 
-            
-            DatagramPacket tempPacket2 = new DatagramPacket(volleyReturn, volleyReturn.length); 
-            socket.receive(tempPacket2); 
-            long endTime = System.currentTimeMillis(); 
-            
-            int timeout = (int) (endTime - startTime) * 2; 
+//            byte[] volleyBytes = new byte[4]; 
+//            byte[] tempSeqBytes = intToByteArray(-1);
+//            volleyBytes[0] = tempSeqBytes[0];
+//            volleyBytes[1] = tempSeqBytes[1];
+//            volleyBytes[2] = tempSeqBytes[2];
+//            volleyBytes[3] = tempSeqBytes[3];
+//            
+//            InetAddress tempAddress = InetAddress.getByName( servers[0] );
+//            DatagramPacket tempPacket = new DatagramPacket( volleyBytes, 4, tempAddress, 7735 );
+//           
+//            
+//            long startTime = System.currentTimeMillis();  
+//            socket.send( tempPacket );
+//            
+//            byte[] volleyReturn = new byte[4]; 
+//            
+//            DatagramPacket tempPacket2 = new DatagramPacket(volleyReturn, volleyReturn.length); 
+//            socket.receive(tempPacket2); 
+//            long endTime = System.currentTimeMillis(); 
+//            
+//            int timeout = (int) (endTime - startTime) * 2; 
             
             
             while ( ( readBytes = is.read( b, 8, MSS - 8 ) ) != -1 ) {

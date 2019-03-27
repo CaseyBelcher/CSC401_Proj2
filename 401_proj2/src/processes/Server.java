@@ -65,26 +65,26 @@ public class Server {
                 
                 // TODO: checksum not working yet 
                 // store checksum field then set to 0 for calculation 
-                byte[] clientSum = new byte[2]; 
-                clientSum[0] = data[4]; 
-                clientSum[1] = data[5]; 
-                
-                data[4] = 0x00; 
-                data[5] = 0x00; 
-                
-                // calculate checksum 
-                char sum = 0; 
-                for(int i = 0; i < data.length / 2; i++) { 
-                  char piece = byteArrayToChar( Arrays.copyOfRange(data, i, i+2) );
-                  sum += piece; 
-                }
-                sum = (char) ~sum; 
-//                System.out.println("our sum: " + sum);
-                
-                // compare our checksum to client's header
-                // if incorrect, do nothing and restart while loop 
-                byte[] ourSum = new byte[2]; 
-                ourSum = charToByteArray(sum); 
+//                byte[] clientSum = new byte[2]; 
+//                clientSum[0] = data[4]; 
+//                clientSum[1] = data[5]; 
+//                
+//                data[4] = 0x00; 
+//                data[5] = 0x00; 
+//                
+//                // calculate checksum 
+//                char sum = 0; 
+//                for(int i = 0; i < data.length / 2; i++) { 
+//                  char piece = byteArrayToChar( Arrays.copyOfRange(data, i, i+2) );
+//                  sum += piece; 
+//                }
+//                sum = (char) ~sum; 
+////                System.out.println("our sum: " + sum);
+//                
+//                // compare our checksum to client's header
+//                // if incorrect, do nothing and restart while loop 
+//                byte[] ourSum = new byte[2]; 
+//                ourSum = charToByteArray(sum); 
                 
 //                if(clientSum[0] != ourSum[0] || clientSum[1] != ourSum[1]) { 
 //                  
