@@ -122,12 +122,13 @@ public class Client {
                 // wait for all ACKs 
                 int acksRecieved = 0; 
                 byte[] ackBuffer = new byte[8];
-                HashSet<InetAddress> addressesRemaining = new HashSet<InetAddress>(); 
+//                HashSet<InetAddress> addressesRemaining = new HashSet<InetAddress>(); 
+                ArrayList<InetAddress> addressesRemaining = new ArrayList<InetAddress>(); 
                 for(int i = 0; i < servers.length; i++) { 
                   addressesRemaining.add(InetAddress.getByName(servers[i])); 
                 }
                 
-                a: while(acksRecieved < numServers) { 
+                a: while(!addressesRemaining.isEmpty()) { 
                    try {  
                     DatagramPacket packet = new DatagramPacket(ackBuffer, ackBuffer.length); 
                     socket.receive(packet);
@@ -144,7 +145,7 @@ public class Client {
                    catch(SocketTimeoutException e) { 
                      System.out.println("Timeout, sequence number = " + seqNum);
                      for(int i = 0; i < addressesRemaining.size(); i++) { 
-                       DatagramPacket packet = new DatagramPacket( b, readBytes + 8, addressesRemaining.iterator().next(), 7735 );
+                       DatagramPacket packet = new DatagramPacket( b, readBytes + 8, addressesRemaining.get(i), 7735 );
                        socket.send( packet );
                      }
                      continue a;
