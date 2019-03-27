@@ -1,0 +1,2366 @@
+$ java processes.Client 2 10.152.1.158 10.154.36.211 7725 ./processes/fileToRead.txt 500
+500
+Timeout, sequence number = 0
+Timeout, sequence number = 0
+Timeout, sequence number = 0
+Timeout, sequence number = 0
+Timeout, sequence number = 0
+Timeout, sequence number = 0
+Timeout, sequence number = 0
+Timeout, sequence number = 0
+Timeout, sequence number = 0
+Timeout, sequence number = 0
+Timeout, sequence number = 0
+Timeout, sequence number = 0
+Timeout, sequence number = 0
+Timeout, sequence number = 0
+Timeout, sequence number = 0
+Timeout, sequence number = 0
+Timeout, sequence number = 0
+Timeout, sequence number = 0
+Timeout, sequence number = 0
+Timeout, sequence number = 0
+Timeout, sequence number = 0
+Timeout, sequence number = 0
+Timeout, sequence number = 0
+Timeout, sequence number = 0
+Timeout, sequence number = 0
+Timeout, sequence number = 0
+Timeout, sequence number = 0
+Timeout, sequence number = 0
+Timeout, sequence number = 0
+Timeout, sequence number = 0
+Timeout, sequence number = 0
+Timeout, sequence number = 0
+ACKed sequence: 0
+ACKed sequence: 0
+500
+ACKed sequence: 0
+ACKed sequence: 0
+ACKed sequence: 0
+ACKed sequence: 0
+ACKed sequence: 0
+ACKed sequence: 0
+ACKed sequence: 0
+ACKed sequence: 0
+ACKed sequence: 0
+Timeout, sequence number = 1
+ACKed sequence: 0
+ACKed sequence: 0
+ACKed sequence: 0
+ACKed sequence: 0
+ACKed sequence: 0
+ACKed sequence: 0
+ACKed sequence: 0
+ACKed sequence: 0
+ACKed sequence: 0
+ACKed sequence: 0
+ACKed sequence: 0
+ACKed sequence: 0
+ACKed sequence: 0
+ACKed sequence: 0
+ACKed sequence: 0
+ACKed sequence: 0
+ACKed sequence: 0
+ACKed sequence: 0
+ACKed sequence: 0
+ACKed sequence: 0
+ACKed sequence: 0
+ACKed sequence: 0
+ACKed sequence: 0
+ACKed sequence: 0
+ACKed sequence: 0
+ACKed sequence: 0
+ACKed sequence: 0
+ACKed sequence: 0
+ACKed sequence: 0
+ACKed sequence: 0
+ACKed sequence: 0
+ACKed sequence: 0
+Timeout, sequence number = 1
+ACKed sequence: 0
+ACKed sequence: 0
+ACKed sequence: 0
+ACKed sequence: 0
+ACKed sequence: 0
+ACKed sequence: 0
+ACKed sequence: 0
+ACKed sequence: 0
+ACKed sequence: 0
+ACKed sequence: 0
+ACKed sequence: 1
+ACKed sequence: 1
+500
+ACKed sequence: 1
+ACKed sequence: 1
+ACKed sequence: 1
+Timeout, sequence number = 2
+ACKed sequence: 2
+Timeout, sequence number = 2
+ACKed sequence: 2
+500
+ACKed sequence: 2
+Timeout, sequence number = 3
+ACKed sequence: 3
+ACKed sequence: 3
+500
+ACKed sequence: 3
+Timeout, sequence number = 4
+ACKed sequence: 4
+ACKed sequence: 0
+ACKed sequence: 4
+500
+ACKed sequence: 4
+Timeout, sequence number = 5
+Timeout, sequence number = 5
+ACKed sequence: 5
+Timeout, sequence number = 5
+ACKed sequence: 5
+500
+ACKed sequence: 5
+Timeout, sequence number = 6
+ACKed sequence: 5
+ACKed sequence: 5
+ACKed sequence: 6
+Timeout, sequence number = 6
+ACKed sequence: 6
+500
+ACKed sequence: 6
+Timeout, sequence number = 7
+Timeout, sequence number = 7
+ACKed sequence: 7
+Timeout, sequence number = 7
+ACKed sequence: 7
+500
+ACKed sequence: 7
+ACKed sequence: 7
+ACKed sequence: 7
+Timeout, sequence number = 8
+Timeout, sequence number = 8
+ACKed sequence: 1
+ACKed sequence: 8
+ACKed sequence: 2
+ACKed sequence: 8
+500
+Timeout, sequence number = 9
+Timeout, sequence number = 9
+ACKed sequence: 3
+ACKed sequence: 4
+ACKed sequence: 5
+ACKed sequence: 5
+ACKed sequence: 6
+ACKed sequence: 6
+ACKed sequence: 7
+Timeout, sequence number = 9
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 9
+ACKed sequence: 9
+500
+ACKed sequence: 9
+ACKed sequence: 9
+ACKed sequence: 9
+Timeout, sequence number = 10
+ACKed sequence: 9
+ACKed sequence: 9
+Timeout, sequence number = 10
+ACKed sequence: 10
+ACKed sequence: 7
+ACKed sequence: 8
+Timeout, sequence number = 10
+ACKed sequence: 10
+500
+ACKed sequence: 10
+ACKed sequence: 10
+ACKed sequence: 10
+Timeout, sequence number = 11
+ACKed sequence: 11
+Timeout, sequence number = 11
+ACKed sequence: 11
+500
+ACKed sequence: 11
+Timeout, sequence number = 12
+Timeout, sequence number = 12
+ACKed sequence: 12
+ACKed sequence: 12
+500
+ACKed sequence: 12
+Timeout, sequence number = 13
+ACKed sequence: 12
+ACKed sequence: 13
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 13
+ACKed sequence: 13
+500
+ACKed sequence: 13
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 14
+ACKed sequence: 14
+Timeout, sequence number = 14
+ACKed sequence: 8
+ACKed sequence: 14
+500
+ACKed sequence: 14
+Timeout, sequence number = 15
+ACKed sequence: 15
+ACKed sequence: 15
+500
+Timeout, sequence number = 16
+Timeout, sequence number = 16
+ACKed sequence: 16
+Timeout, sequence number = 16
+ACKed sequence: 8
+ACKed sequence: 16
+500
+ACKed sequence: 8
+ACKed sequence: 16
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 16
+ACKed sequence: 16
+ACKed sequence: 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+Timeout, sequence number = 17
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+ACKed sequence: 8
+Timeout, sequence number = 17
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+ACKed sequence: 8
+Timeout, sequence number = 17
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+Timeout, sequence number = 17
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+Timeout, sequence number = 17
+ACKed sequence: 8
+Timeout, sequence number = 17
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+ACKed sequence: 8
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+Timeout, sequence number = 17
+ACKed sequence: 8
+Timeout, sequence number = 17
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+Timeout, sequence number = 17
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+ACKed sequence: 8
+Timeout, sequence number = 17
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+ACKed sequence: 8
+Timeout, sequence number = 17
+ACKed sequence: 8
+Timeout, sequence number = 17
+ACKed sequence: 8
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+Timeout, sequence number = 17
+ACKed sequence: 8
+Timeout, sequence number = 17
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+ACKed sequence: 8
+Timeout, sequence number = 17
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+ACKed sequence: 8
+Timeout, sequence number = 17
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+ACKed sequence: 8
+Timeout, sequence number = 17
+ACKed sequence: 8
+Timeout, sequence number = 17
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+ACKed sequence: 8
+Timeout, sequence number = 17
+ACKed sequence: 8
+Timeout, sequence number = 17
+ACKed sequence: 8
+Timeout, sequence number = 17
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+ACKed sequence: 8
+Timeout, sequence number = 17
+ACKed sequence: 8
+Timeout, sequence number = 17
+Timeout, sequence number = 17
+Timeout, sequence number = 17
