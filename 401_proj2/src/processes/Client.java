@@ -115,7 +115,7 @@ public class Client {
                   DatagramPacket packet = new DatagramPacket( b, readBytes + 8, address, 7735 );
                   socket.send( packet );
                 }
-                socket.setSoTimeout(timeout);
+                socket.setSoTimeout(1);
                 System.out.println(readBytes + 8);
                 
                 
