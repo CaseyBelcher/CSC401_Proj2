@@ -94,35 +94,33 @@ public class Client {
                 // break down packet into 16 bit / 2 byte / 1 char sections
                 // convert to char so you can add them 
                 // sum them, then one's complement the sum => checksum value 
-                
-                char sum = 0; 
+                int sum = 0; 
                 for(int i = 0; i < MSS / 2; i++) { 
-                  char piece = byteArrayToChar( Arrays.copyOfRange(b, i, i+2) );
-                  sum += piece; 
+                  int piece = byteArrayToChar( Arrays.copyOfRange(b, i, i+2) );
+                  sum += piece;   
                 }
                 
                 // complement 
-                sum = (char) ~sum; 
-                 
-                byte[] checksumbytes = charToByteArray(sum); 
+                sum = ~sum; 
+
+                // place in checksum field
+                byte[] checksumbytes = intToByteArray(sum); 
                 b[4] = checksumbytes[0]; 
                 b[5] = checksumbytes[1]; 
-                
-                
-                
+             
+
                 for(int i = 0; i < servers.length; i++) { 
                   InetAddress address = InetAddress.getByName( servers[i] );
                   DatagramPacket packet = new DatagramPacket( b, readBytes + 8, address, 7735 );
                   socket.send( packet );
                 }
                 socket.setSoTimeout(1);
-                System.out.println(readBytes + 8);
+//                System.out.println(readBytes + 8);
                 
                 
                 // wait for all ACKs 
                 int acksRecieved = 0; 
                 byte[] ackBuffer = new byte[8];
-//                HashSet<InetAddress> addressesRemaining = new HashSet<InetAddress>(); 
                 ArrayList<InetAddress> addressesRemaining = new ArrayList<InetAddress>(); 
                 for(int i = 0; i < servers.length; i++) { 
                   addressesRemaining.add(InetAddress.getByName(servers[i])); 
@@ -134,7 +132,7 @@ public class Client {
                     socket.receive(packet);
                     
                     int ackSequence = fromByteArray( Arrays.copyOfRange(packet.getData(), 0, 4) );
-                    System.out.println("ACKed sequence: " + ackSequence);
+//                    System.out.println("ACKed sequence: " + ackSequence);
                     
                     if(ackSequence == seqNum) { 
                       acksRecieved++; 

@@ -60,43 +60,31 @@ public class Server {
                   System.out.println("Packet loss, sequence number = " + (lastRecievedSequence+1));
                   continue; 
                 }
-                System.out.println("sequence: " + sequence);
+//                System.out.println("sequence: " + sequence);
                 
                 
-                // TODO: checksum not working yet 
+                
                 // store checksum field then set to 0 for calculation 
-//                byte[] clientSum = new byte[2]; 
-//                clientSum[0] = data[4]; 
-//                clientSum[1] = data[5]; 
-//                
-//                data[4] = 0x00; 
-//                data[5] = 0x00; 
-//                
-//                // calculate checksum 
-//                char sum = 0; 
-//                for(int i = 0; i < data.length / 2; i++) { 
-//                  char piece = byteArrayToChar( Arrays.copyOfRange(data, i, i+2) );
-//                  sum += piece; 
-//                }
-//                sum = (char) ~sum; 
-////                System.out.println("our sum: " + sum);
-//                
-//                // compare our checksum to client's header
-//                // if incorrect, do nothing and restart while loop 
-//                byte[] ourSum = new byte[2]; 
-//                ourSum = charToByteArray(sum); 
+                byte[] clientSum = new byte[4]; 
+                clientSum[0] = data[4]; 
+                clientSum[1] = data[5]; 
                 
-//                if(clientSum[0] != ourSum[0] || clientSum[1] != ourSum[1]) { 
-//                  
-//                  System.out.println("clientSum[0]: " + clientSum[0]);
-//                  System.out.println("ourSum[0]: " + ourSum[0]);
-//                  System.out.println("clientSum[1]: " + clientSum[1]);
-//                  System.out.println("ourSum[1]: " + ourSum[1]);
-//                  
-//                  continue; 
-//                }
+                data[4] = 0x00; 
+                data[5] = 0x00; 
                 
+                // Calculate checksum 
+                int sum = 0; 
+                for(int i = 0; i < data.length / 2; i++) { 
+                  int piece = byteArrayToChar( Arrays.copyOfRange(data, i, i+2) );
+                  sum += piece; 
+                }
+                sum = ~sum; 
 
+                byte[] oursumbytes = intToByteArray(sum); 
+                if(clientSum[0] != oursumbytes[0] || clientSum[1] != oursumbytes[1]) { 
+                  continue; 
+                }
+                
                 
                 byte[] ackB = new byte[8];
                 byte[] ackSeq;
